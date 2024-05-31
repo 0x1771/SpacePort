@@ -2,7 +2,7 @@ services:
   - type: web
     name: bjj
     env: static
-    repo: https://github.com/ardydedase/bjj.git
+    repo: https://github.com/0x1771/SpacePort.git
     buildCommand: npm run build
     staticPublishPath: ./out
     branch: main
