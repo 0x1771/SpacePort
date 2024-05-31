@@ -11,14 +11,6 @@ export const Navbar = () => {
           href="#about-me"
           className="h-auto w-auto flex flex-row items-center"
         >
-          <Image
-            src="/logo.png"
-            alt="Logo"
-            width={70}
-            height={70}
-            draggable={false}
-            className="cursor-pointer hover:animate-slowspin"
-          />
           <div className="font-bold ml-[10px] hidden md:block text-gray-300">
             Mikail Üstüner
           </div>
