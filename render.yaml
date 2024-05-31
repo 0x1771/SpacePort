@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: bjj
+    name: mikailustuner
     env: static
     repo: https://github.com/0x1771/SpacePort.git
     buildCommand: npm run build
